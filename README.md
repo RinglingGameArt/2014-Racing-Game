@@ -3,4 +3,4 @@
 
 2014 Racing Game
 
-Bug list for Rngling Sophomore Racing Game Project.
+Bug list for Ringling Sophomore Racing Game Project.
